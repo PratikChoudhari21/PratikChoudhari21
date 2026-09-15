@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" alt="Pratik Choudhari - AI/ML Engineer" width="100%">
+</p>
+
 # Hi 👋, I'm Pratik Choudhari
 
 ## AI/ML Engineer | Python Developer | Data Science
